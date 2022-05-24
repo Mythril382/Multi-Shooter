@@ -1,0 +1,6 @@
+name: multi-shooter
+displayName: Multi Shooter
+author: Mythril
+description: "Allows modification of shots and shot delays.\n\n[red]May cause lag![]"
+version: 0.1
+minGameVersion: 136
